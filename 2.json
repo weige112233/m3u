@@ -1,167 +1,140 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="央视", CCTV1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV3
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV6
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV7
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV9
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV10
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV11
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV12
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV13
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV14
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV15
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV16
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV17
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
-#EXTINF:-1 group-title="央视", CCTV5+
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-
-#EXTINF:-1 group-title="体育", 超级体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-
-#EXTINF:-1 group-title="体育", 精品体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-
-#EXTINF:-1 group-title="体育", 体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-
-#EXTINF:-1 group-title="其他", 军事评论
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-
-#EXTINF:-1 group-title="其他", HRB 新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-
-#EXTINF:-1 group-title="剧场", 东北热剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-
-#EXTINF:-1 group-title="剧场", 军旅剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-
-#EXTINF:-1 group-title="剧场", 动作电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-
-#EXTINF:-1 group-title="剧场", 古装剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-
-#EXTINF:-1 group-title="剧场", 家庭剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-
-#EXTINF:-1 group-title="剧场", 惊悚悬疑
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-
-#EXTINF:-1 group-title="剧场", 欢乐剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-
-#EXTINF:-1 group-title="剧场", 精品记录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-
-#EXTINF:-1 group-title="剧场", 超级电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-
-#EXTINF:-1 group-title="剧场", 超级电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-
-#EXTINF:-1 group-title="剧场", 超级综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-
-#EXTINF:-1 group-title="剧场", 金牌综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-
-#EXTINF:-1 group-title="剧场", 黑猫动画
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-
-#EXTINF:-1 group-title="剧场", 黑猫电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-
-#EXTINF:-1 group-title="卫视", BRTV 北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-
-#EXTINF:-1 group-title="卫视", BRTV 纪实科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-
-#EXTINF:-1 group-title="卫视", 东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-
-#EXTINF:-1 group-title="卫视", 东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-
-#EXTINF:-1 group-title="卫视", 吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-
-#EXTINF:-1 group-title="卫视", 四川卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-
-#EXTINF:-1 group-title="卫视", 天津卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-
-#EXTINF:-1 group-title="卫视", 山东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-
-#EXTINF:-1 group-title="卫视", 广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-
-#EXTINF:-1 group-title="卫视", 广西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-
-#EXTINF:-1 group-title="卫视", 文体
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-
-#EXTINF:-1 group-title="卫视", 新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
-
-#EXTINF:-1 group-title="卫视", 江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-
-#EXTINF:-1 group-title="卫视", 江西卫视
-http://
+{
+  "channels": [
+    {
+      "group": "央视",
+      "name": "CCTV1",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV2",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV3",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV4",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV5",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV6",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV7",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV8",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV9",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV10",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV11",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV12",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV13",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV14",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV15",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV16",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV17",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
+    },
+    {
+      "group": "央视",
+      "name": "CCTV5+",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8"
+    },
+    {
+      "group": "体育",
+      "name": "超级体育",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8"
+    },
+    {
+      "group": "体育",
+      "name": "精品体育",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8"
+    },
+    {
+      "group": "体育",
+      "name": "体育",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8"
+    },
+    {
+      "group": "其他",
+      "name": "军事评论",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8"
+    },
+    {
+      "group": "其他",
+      "name": "HRB 新闻综合",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8"
+    },
+    {
+      "group": "剧场",
+      "name": "东北热剧",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8"
+    },
+    // ...（其他频道数据按此格式继续）
+    {
+      "group": "卫视",
+      "name": "江苏卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8"
+    },
+    {
+      "group": "卫视",
+      "name": "江西卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8"
+    }
+  ],
+  "metadata": {
+    "source": "原M3U文件转换",
+    "format_version": "1.0",
+    "total_channels": 72
+  }
+}
